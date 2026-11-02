@@ -53,3 +53,7 @@ All public on GitHub:
   verbatim unless the instructors say otherwise. Studio-specific wording only where facts differ.
 - **Lecture pages + side-panel nav:** `landscape-courses/design-research` → `lectures/*.html`.
 - **Workshop pages:** `landscape-courses/agentic-design-workflows` → `workshops/coding-101.html`.
+
+## Tasks
+`tasks/` holds handoff notes for future sessions, one Markdown file per task with status, context,
+steps and a "done when". Check it at the start of a session.
