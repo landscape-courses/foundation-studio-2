@@ -4,11 +4,17 @@ Co-taught by **Zihao Zhang** and **Shahab Albahar**. Repo in the `landscape-cour
 served by GitHub Pages at `https://landscape-courses.github.io/foundation-studio-2/` from `main` / root
 (`.nojekyll`). Hand-authored static HTML, no build step, no Jekyll. Keep it that way.
 
-## Status: scaffold only
-Seeded Nov 2026 with the shared assets, license and these rules. **No pages yet.** First job of the
-next session: build `index.html`, the studio syllabus, from course info the instructors provide
-(term, meeting times, description, project phases, weekly schedule, deliverables, grading).
-Ask for whatever is missing rather than inventing it. Update this section once the syllabus exists.
+## Status: syllabus template
+`index.html` is a **template**, built from agentic-design-workflows' syllabus. Every course-specific
+slot reads `[TODO: …]` (`grep -n TODO index.html` lists them). First job of the next session: fill
+them from course info the instructors provide; ask for whatever is missing rather than inventing it.
+Remove each `[TODO]` as it is filled and update this section when none remain.
+
+Kept **verbatim** (do not rewrite unless the instructors ask): Support of Program Mission (from
+laar61400, since this studio is in the LA sequence), Grading Criteria prose and grade scale,
+Classroom Expectations (incl. the Agentic AI course stance), Support Resources. Attendance's first
+sentence is a TODO for the meeting pattern. The grade-breakdown weights and bar widths are TODOs.
+The side-panel nav has no sections yet; add Projects / Lectures / Workshops as pages are built.
 
 ## Working rules (both instructors, every Claude session)
 - **Never push to `main`.** Work on a branch, open a PR; the other instructor reviews.
