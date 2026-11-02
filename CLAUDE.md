@@ -10,10 +10,13 @@ slot reads `[TODO: …]` (`grep -n TODO index.html` lists them). First job of th
 them from course info the instructors provide; ask for whatever is missing rather than inventing it.
 Remove each `[TODO]` as it is filled and update this section when none remain.
 
-Kept **verbatim** (do not rewrite unless the instructors ask): Support of Program Mission (from
-laar61400, since this studio is in the LA sequence), Grading Criteria prose and grade scale,
-Classroom Expectations (incl. the Agentic AI course stance), Support Resources. Attendance's first
-sentence is a TODO for the meeting pattern. The grade-breakdown weights and bar widths are TODOs.
+**Boilerplate is LAAR 61400's, verbatim, and must not change**: Support of Program Mission,
+Grading Criteria (prose and grade scale), Classroom Expectations (incl. the Agentic AI course stance),
+Support Resources and the footer. Source of truth: `zihaoooo/zihao-site` →
+`teaching/laar61400/index.html` (moves to its own landscape-courses repo after Fall 2026). Never
+reword these here; if the policy changes, change it in LAAR 61400 first, then copy it across.
+The only course-specific slots inside them are TODOs: Attendance's meeting-pattern sentence and the
+grade-breakdown weights (bar width = the percentage). Section order follows LAAR 61400.
 The side-panel nav has no sections yet; add Projects / Lectures / Workshops as pages are built.
 
 ## Working rules (both instructors, every Claude session)
