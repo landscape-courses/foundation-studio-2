@@ -20,8 +20,8 @@ grade-breakdown weights (bar width = the percentage). Section order follows LAAR
 The side-panel nav has no sections yet; add Projects / Lectures / Workshops as pages are built.
 
 ## Working rules (both instructors, every Claude session)
-- **Never push to `main`.** Work on a branch, open a PR; the other instructor reviews.
-  Exception: the very first syllabus commit, if `main` has no branch protection yet.
+- **Pushing to `main`:** Zihao (repo owner) may push to `main` directly, or have Claude do so when he
+  asks. Shahab's sessions work on a branch and open a PR for Zihao to review.
 - **Every internal path starts with `/foundation-studio-2/`** (the Pages subpath). A bare `/assets/...`
   breaks on Pages.
 - **Self-contained.** CSS, JS, deck system and images live in this repo. Don't hot-link assets from
