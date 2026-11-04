@@ -53,6 +53,15 @@ All public on GitHub:
 - **Lecture pages + side-panel nav:** `landscape-courses/design-research` → `lectures/*.html`.
 - **Workshop pages:** `landscape-courses/agentic-design-workflows` → `workshops/coding-101.html`.
 
+## Local sibling folders (Zihao's machine, `D:\Documents\Claude\`)
+When these exist next to this repo, read the reference files from them instead of GitHub:
+- `../zihao-site/` → `teaching/laar61400/index.html` (syllabus + boilerplate source)
+- `../agentic-design-workflows/` → `workshops/coding-101.html` (workshop pattern)
+- `../course-prep/`, `../lecture-factory/` — teaching factories (lecture/course drafting)
+- `../design-research/` — clone with `gh repo clone landscape-courses/design-research` when needed
+- `../project-originals/` — hi-res image originals kept outside repos
+Elsewhere (e.g. Shahab's machine), use the GitHub links above.
+
 ## Tasks
 `tasks/` holds handoff notes for future sessions, one Markdown file per task with status, context,
 steps and a "done when". Check it at the start of a session.
