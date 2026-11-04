@@ -34,6 +34,10 @@ Foundation Studio II, Spring 2027. Two projects of 14 sessions each, sharing a c
 4. **Base datum.** Fixed insert bottom elevation, so every insert seats at the same depth.
 5. Model extents (how much context beyond the park: streets, buildings, stairs to Wadsworth).
 
+## Proposed specs
+Recorded in [p1-site-model/README.md](../p1-site-model/README.md): 1" = 40', 2 ft per 0.05" board, 20" × 20" model,
+30 Blick sheets for both. Rhino build: [p1-rhino-model.md](p1-rhino-model.md).
+
 ## Steps
 1. Source data: NYC Open Data / NYC DoITT 1 ft contours or the topobathy DEM, plus building
    footprints and street centerlines. Record source and date.
