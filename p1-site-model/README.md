@@ -15,6 +15,14 @@ This file is the source of truth for model specs; tasks and emails point here.
 | **20" × 20" (chosen)** | 800 ft | 71 → 210 | 71 + base | 3.6" | 10.8 / 14 | **30 sheets ≈ $64** |
 | 25" × 25" | 1,000 ft | 60 → 216 | 78 + base | 4.0" | 19.8 / 26 | 52 sheets ≈ $111 |
 
+**Void and inserts (agreed 2026-11-04):**
+- **Void:** a 6" × 6" square (240 ft) inside the park, rotated to follow the park and Broadway (about 28° from the frame).
+  It covers the slope, about 88 → 185 ft, and stops short of the upper terrace. Set its exact position in Rhino from the park edges.
+- **Datum:** the void floor is the top of the base board. Inserts sit flush, up to 4" tall.
+- **Inserts:** oil-based plasticine (Van Aken / Chavant NSP), which is reusable and keeps its size.
+  Rebuilding the existing terrain takes about 30 in³ (about 2 lb). A solid 4" block is 144 in³ (about 9 lb).
+  Budget about 5 lb per student, roughly 100 lb for the class. 3D-printed or chipboard inserts follow the same outline.
+
 Sheet counts add up the area of every layer as a solid sheet. Hollow lower layers and the insert void reduce them.
 
 ## Sources
@@ -42,5 +50,5 @@ This is how the specs were reached. The outcome is in the Specs section above.
    Switched to **1" = 40'** so that one board is exactly 2 ft.
 4. **Settled on 20" × 20"** (800 ft) rather than 25" (1,000 ft). It fits on one sheet with spare room,
    needs 30 sheets for both models, and the park (about 9") still fits a 10" printer bed.
-5. The proposal went to Shahab by email. Still open: the void outline and the insert datum
+5. The proposal went to Shahab by email. 6" rotated void and flush datum agreed (see Specs). Still open: the void's exact position
    (see [tasks/p1-site-model.md](../tasks/p1-site-model.md)).
