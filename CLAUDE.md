@@ -57,7 +57,7 @@ All public on GitHub:
 When these exist next to this repo, read the reference files from them instead of GitHub:
 - `../zihao-site/` → `teaching/laar61400/index.html` (syllabus + boilerplate source)
 - `../agentic-design-workflows/` → `workshops/coding-101.html` (workshop pattern)
-- `../course-prep/`, `../lecture-factory/` — teaching factories (lecture/course drafting)
+- `../course-prep/` — teaching factory (lecture/course drafting); research talks are authored directly in `../zihao-site/talks/`
 - `../design-research/` — clone with `gh repo clone landscape-courses/design-research` when needed
 - `../project-originals/` — hi-res image originals kept outside repos
 Elsewhere (e.g. Shahab's machine), use the GitHub links above.
