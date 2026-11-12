@@ -5,7 +5,7 @@ Used by BOTH sections of the site, which differ only in the chrome above the dec
 
 | Section | Pages | Chrome stylesheet | Built by |
 |---|---|---|---|
-| Course lectures | `teaching/<course>/lectures/` | `teaching/<course>/assets/css/main.css` (+ `workflow-shared.css`) | `../course-prep` |
+| Course lectures | `teaching/<course>/lectures/` | `teaching/<course>/assets/css/main.css` (+ `workflow-shared.css`) | this repo |
 | Research talks | `talks/<topic>/` | `assets/css/site.css` | authored directly in zihao-site |
 
 Both `<link>` `deck.css` and `<script>` `deck.js` from `/assets/deck/`. Never copy either into a

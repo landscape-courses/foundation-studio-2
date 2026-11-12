@@ -53,13 +53,12 @@ All public on GitHub:
 - **Lecture pages + side-panel nav:** `landscape-courses/design-research` → `lectures/*.html`.
 - **Workshop pages:** `landscape-courses/agentic-design-workflows` → `workshops/coding-101.html`.
 
-## Local sibling folders (Zihao's machine, `D:\Documents\Claude\`)
+## Local sibling folders (Zihao's machine, `D:\Documents\Claude\landscape-courses\`)
 When these exist next to this repo, read the reference files from them instead of GitHub:
-- `../zihao-site/` → `teaching/laar61400/index.html` (syllabus + boilerplate source)
+- `../../zihao-site/` → `teaching/laar61400/index.html` (syllabus + boilerplate source)
 - `../agentic-design-workflows/` → `workshops/coding-101.html` (workshop pattern)
-- `../course-prep/` — teaching factory (lecture/course drafting); research talks are authored directly in `../zihao-site/talks/`
+- `../_tools/` — shared course tools (video captions/chapters/thumbnails, syllabus → docx); research talks are authored in `../../zihao-site/talks/`
 - `../design-research/` — clone with `gh repo clone landscape-courses/design-research` when needed
-- `../project-originals/` — hi-res image originals kept outside repos
 Elsewhere (e.g. Shahab's machine), use the GitHub links above.
 
 ## Tasks
