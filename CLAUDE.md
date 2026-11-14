@@ -16,7 +16,8 @@ The instructors prepare by talking, often from a phone. State lives in `weeks/` 
 starts from the files.
 
 - `weeks/00-course.md` holds the whole course: frame, schedule, projects, grading.
-  `weeks/week-NN.md` holds one week's sessions, created when that week is first discussed. Each
+  `weeks/week-NN.md` holds one week's sessions, created when that week is first discussed. A week
+  with no file has nothing pending and its page is the record. Each
   has three sections: **Open** (raised, awaiting a decision), **Decided** (conclusions),
   **To build** (decided, and the page has yet to show it).
 - Pre-semester, talk defaults to `00-course.md` and the syllabus is free to change. In semester,
@@ -34,7 +35,8 @@ starts from the files.
 
 **Build (建)** starts when an instructor says build, in a fresh session.
 - Read the file's Decided and To build, and `assets/deck/deck-spec.md` for a lecture deck. Make the
-  page, push, reply with its live URL, and empty To build.
+  page, push, reply with its live URL, then clear from the file what the page now shows; delete
+  the file once it is empty.
 
 `tasks/` holds work orders that belong to no week, such as the P1 site model; each states its
 status, steps and what done means.
