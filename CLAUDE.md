@@ -42,8 +42,13 @@ starts from the files.
 status, steps and what done means.
 
 ## Repo rules
-- Both instructors push to `main`, directly or through Claude. Use a branch and PR to get the
-  other's review first.
+- Start every session with `git pull`; finish each change with a commit and push, so the other
+  instructor's copy and the live site stay current.
+- Routine work goes straight to `main`, directly or through Claude: `weeks/` notes, a page you own,
+  typo fixes.
+- A change the other instructor should see before it goes live goes on a branch and a PR, which
+  they merge after review: the syllabus (`index.html`) once the semester starts, shared CSS/JS,
+  the deck system, the nav edit across all pages, and any rewrite of a page the other authored.
 - Every internal path starts with `/foundation-studio-2/`, the Pages subpath.
 - The repo is self-contained: CSS, JS, deck system and images are copied in.
 - Head and side-panel nav are inline in every page, so a nav edit goes to all pages in one pass.
