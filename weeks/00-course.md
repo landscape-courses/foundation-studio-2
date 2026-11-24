@@ -10,6 +10,11 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   Both instructors to review: vocabulary, methodology, goals, objectives, deliverables, readings,
   per-session lectures and workshops, and weights 40 / 40 / 20. Meeting time 2:00 to 5:20 PM is
   inferred from past grad studios and the 7 contact hours; confirm it.
+- 2026-11-24, Zihao: restructure Assignments into small 1 to 2 week increments, so students make
+  something new every week; the site model spans several sessions. Each increment is an inquiry
+  rather than a task to finish, and gets its own page from the left nav, since the site is the
+  single source for the course. Name pending (probe, prompt, study, exercise, inquiry, étude).
+  Drop "distributed in class" language.
 
 ## Decided
 - Two projects of 14 sessions each, sharing one spine: movement and choreography, A to B. Each
