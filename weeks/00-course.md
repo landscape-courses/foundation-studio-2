@@ -16,7 +16,7 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
 
 ## Decided
-- Grading: weekly studies 80%, about 8% each; process and participation 20%. (2026-11-24, Zihao)
+- Grading: ten graded studies at 8% each (80%), five per project; 1.0 is an ungraded warm-up; process and participation 20%. (2026-11-24, Zihao)
 - S03 workshop is Grasshopper (lofting key sections) for the catalog; the contour workshop is
   dropped, since students already read contours. (2026-11-24, Zihao)
 - P1 drawings are spread across the studies. 1.3 checks the chosen model at body scale, the space
