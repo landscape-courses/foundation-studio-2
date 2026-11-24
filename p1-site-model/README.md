@@ -3,27 +3,38 @@
 Base maps, source data and 3D models for the two P1 chipboard pancake models.
 This file is the source of truth for model specs; tasks and emails point here.
 
-## Specs (proposed 2026-11-04, pending Shahab)
-- **Scale:** 1" = 40' (1:480).
-- **Layers:** one 2 ft contour per board, 0.05" thick. The vertical scale is true.
+## Specs (revised 2026-11-09, Zihao; void size pending Shahab)
+- **Scale:** 1" = 20' (1:240).
+- **Layers:** one 1 ft contour per board, 0.05" thick. The vertical scale is true.
+- **Size:** 30" × 30", covering 600 ft square, about 120 ft (half a block) of context around the park.
+  Elevation 76 → 200 ft in the frame: 125 layers, about 6.3" tall.
+- **Laser bed:** 17.5" × 31.5". Each layer is cut as two 15" × 30" halves joined on one straight seam,
+  in the same place on every layer.
 - **Material:** Blick All-Purpose Chipboard, 14-ply, 0.05", 28" × 44", item 13115-2226,
-  https://www.dickblick.com/items/chipboard-28-x-44-x-14-ply/ ($2.38; $2.14 at 25+).
-- **Park:** about 82 → 192 ft (110 ft rise). Its footprint is about 9" × 9" at scale, so it fits a 256 mm printer bed.
+  https://www.dickblick.com/items/chipboard-28-x-44-x-14-ply/ ($2.14 at 25+).
+- **Park:** about 82 → 192 ft (110 ft rise). Its footprint is about 18" at scale.
 
-| Size | Extent | Elevation (ft) | Layers | Height | Sheets per model (net / +30%) | Order, both models |
-|---|---|---|---|---|---|---|
-| **20" × 20" (chosen)** | 800 ft | 71 → 210 | 71 + base | 3.6" | 10.8 / 14 | **30 sheets ≈ $64** |
-| 25" × 25" | 1,000 ft | 60 → 216 | 78 + base | 4.0" | 19.8 / 26 | 52 sheets ≈ $111 |
+**Order for both models** (purchase request drafted 2026-11-09, from the studio's $1,000 materials fund):
 
-**Void and inserts (agreed 2026-11-04):**
-- **Void:** a 6" × 6" square (240 ft) inside the park, rotated to follow the park and Broadway (about 28° from the frame).
-  It covers the slope, about 88 → 185 ft, and stops short of the upper terrace. Set its exact position in Rhino from the park edges.
-- **Datum:** the void floor is the top of the base board. Inserts sit flush, up to 4" tall.
+| Item | Qty | Cost |
+|---|---|---|
+| Chipboard, 28" × 44", item 13115-2226 | 120 sheets (about 56 per model plus waste) | $256.80 |
+| Elmer's Glue-All, 16 oz, item 23886-1006 | 8 bottles (beads and dots, not a full spread) | $58.40 |
+| Van Aken Plastalina, 4.5 lb, ivory, item 33268-1095 | 6 blocks (27 lb) | $106.62 |
+| **Total** before tax and shipping | | **$421.82** |
+
+**Void and inserts:**
+- **Void:** an 8" × 8" square (160 ft) inside the park, rotated to follow the park and Broadway (about 28° from the frame).
+  Proposed with the 1" = 20' scale; confirm with Shahab. It covers the middle of the slope, and its exact
+  position is set in Rhino from the park edges. (At this scale a 6" void covers 120 ft, half the slope;
+  a 12" void covers the whole slope but takes about 16 lb of clay and cannot be printed in one piece.)
+- **Datum:** the void floor is the top of the base board. Inserts sit flush.
 - **Inserts:** oil-based plasticine (Van Aken / Chavant NSP), which is reusable and keeps its size.
-  Rebuilding the existing terrain takes about 30 in³ (about 2 lb). A solid 4" block is 144 in³ (about 9 lb).
-  Budget about 5 lb per student, roughly 100 lb for the class. 3D-printed or chipboard inserts follow the same outline.
+  Students fill the insert with scrap, foam or chipboard and sculpt only the top ½" in clay, about 2 lb each.
+  The 27 lb order plus leftover clay covers the class. An 8" insert fits a 10" 3D-printer bed.
 
-Sheet counts add up the area of every layer as a solid sheet. Hollow lower layers and the insert void reduce them.
+The base maps and data in `base-map/` and `data/` are still at 1" = 40' (20" and 25"), and
+`scripts/base_map.py` has that scale built in. Regenerate them at 1" = 20' and 30" before the Rhino build.
 
 ## Sources
 - **Elevation:** USGS 3DEP 1 m DEM, from the `3DEPElevation` ImageServer `exportImage` endpoint, fetched 2026-11-04.
@@ -52,3 +63,6 @@ This is how the specs were reached. The outcome is in the Specs section above.
    needs 30 sheets for both models, and the park (about 9") still fits a 10" printer bed.
 5. The proposal went to Shahab by email. 6" rotated void and flush datum agreed (see Specs). Still open: the void's exact position
    (see [tasks/p1-site-model.md](../tasks/p1-site-model.md)).
+6. **2026-11-09: moved to 1" = 20'.** 3.6" read too short. At 1" = 20' one board is 1 ft, so the model is about 6.3" tall.
+   The 17.5" × 31.5" laser bed means stitching layers in any case, so the model went to 30" × 30" (half a block of context).
+   Order: 120 sheets, 8 bottles of glue, 27 lb of clay. The void grows to 8" (160 ft) to keep a useful piece of the slope.
