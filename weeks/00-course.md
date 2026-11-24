@@ -20,7 +20,12 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   5/6, 5/10 pin-up); revision to the 5/20 final.
 
 
-- 2026-11-24, Zihao: the week-based study draft above needs redoing around model-making.
+- 2026-11-24, P1 draft in progress (model-drawing pairs, Mon to Mon): 1.0 Terms (S01, scavenger
+  hunt); 1.1 Clay (2/1-2/8): term models in clay; 1.2 Section (2/8-2/18): draw a section first, use
+  it to study the model's details, then revise the model; 1.3 Scale (2/22-3/1): fit to the void,
+  site contour plan and long section at 1" = 20'; 1.4 Ground (3/1-3/8): plan enlargements and
+  sections at 1" = 8'; 1.5 Insert (3/8-3/15 pin-up): final insert and perspective section collage;
+  revision to the 3/22 midterm.
 
 ## Decided
 - P1 students move between models and drawings. The P1 drawing set at the end: a contour plan,
