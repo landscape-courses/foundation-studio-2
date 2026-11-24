@@ -23,7 +23,7 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, P1 draft in progress (Mon to Mon; one model carried from 1.2 to the midterm):
   1.0 Terms (S01): scavenger hunt, three terms; 1.1 Catalog (2/1-2/8): Grasshopper loft of key
   sections per term, 12 isometrics on 11x17, 4 per term, abstract, no site; 1.2 Clay (2/8-2/18):
-  one catalog item, three clay iterations; 1.3 Occupy (name pending) (2/22-3/1): one iteration,
+  one catalog item, three clay iterations; 1.3 Occupy (2/22-3/1): one iteration,
   checked at body scale with plan enlargements and sections at 1" = 8', then revised; 1.4 Scale (3/1-3/8): build the model bigger, as an insert
   fitted to the void at 1" = 20', drawn as a site contour plan and long section at the same scale;
   1.5 Insert (3/8-3/15 pin-up): final insert and perspective section
