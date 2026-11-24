@@ -14,7 +14,7 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
-- 2026-11-24, Zihao: laser-cut training in week 1 or 2, run for each section during desk crits.
+- 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
 
 ## Decided
 - P1 midterm is a science fair with external guests at S14 (Mon 3/22); no separate S12 pin-up.
