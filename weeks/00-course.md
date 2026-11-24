@@ -20,13 +20,15 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   5/6, 5/10 pin-up); revision to the 5/20 final.
 
 
+- 2026-11-24, Zihao: the St. Nicholas Park stairs transect (hand-drawn on trace, 1" = 20', stops
+  and landings precise, steps as texture, a common record plus one bodily lens) is off 1.0; place
+  it elsewhere or drop it. The week-based draft above needs redoing around model-making.
 ## Decided
-- 1.0 A to B, in S01 (Thu 1/28), due Mon 2/1: students climb the St. Nicholas Park stairs outside
-  Spitzer and draw a transect by hand on trace paper, an unfolded zig-zag section along the
-  stairs' center line at 1" = 20', horizontal and vertical. Elevations come from public data and
-  must be right; stops and landings are drawn precisely, individual steps as texture. Everyone
-  records time, steps and stops with their locations; each student adds one bodily lens of their
-  own (heart rate, breaths, or other). Recordings go on the sheet as annotations and notes. (2026-11-24, Zihao)
+- P1 studies are landform model-making; the site is a testing ground, not a problem to solve.
+  (2026-11-24, Zihao)
+- 1.0 warm-up, in S01 (Thu 1/28): a scavenger hunt. Students get a list of landform terms, search
+  the school for materials, and make a set of small 4" x 4" study models in class, one term each.
+  (2026-11-24, Zihao)
 - Assignments are small studies of one to two weeks, so each week students make something new.
   A study is an inquiry rather than a task to finish. Each study has its own page, listed in the
   left nav under a P1 section and a P2 section; the site is the single source for the course.
