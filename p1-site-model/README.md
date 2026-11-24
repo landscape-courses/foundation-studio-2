@@ -14,7 +14,7 @@ This file is the source of truth for model specs; tasks and emails point here.
   https://www.dickblick.com/items/chipboard-28-x-44-x-14-ply/ ($2.14 at 25+).
 - **Park:** about 82 → 192 ft (110 ft rise). Its footprint is about 18" at scale.
 
-**Order for both models** (purchase request drafted 2026-11-09, from the studio's $1,000 materials fund):
+**Order for both models** (purchased, from the studio's $1,000 materials fund):
 
 | Item | Qty | Cost |
 |---|---|---|
