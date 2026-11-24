@@ -19,14 +19,14 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess); 2.5 Passage (5/3,
   5/6, 5/10 pin-up); revision to the 5/20 final.
 
-- 2026-11-24, Zihao: scale of the 1.0 transect. Claude suggests 1" = 20', the P1 model scale.
 
 ## Decided
 - 1.0 A to B, in S01 (Thu 1/28), due Mon 2/1: students climb the St. Nicholas Park stairs outside
-  Spitzer and draw a transect, an unfolded zig-zag section along the stairs' center line, as a
-  scaled base in Rhino with elevations from public data. Everyone records time, steps and stops
-  with their locations; each student adds one bodily lens of their own (heart rate, breaths, or
-  other). Trace overlays on the base carry the lens and other information. (2026-11-24, Zihao)
+  Spitzer and draw a transect by hand on trace paper, an unfolded zig-zag section along the
+  stairs' center line at 1" = 20', horizontal and vertical. Elevations come from public data and
+  must be right; stops and landings are drawn precisely, individual steps as texture. Everyone
+  records time, steps and stops with their locations; each student adds one bodily lens of their
+  own (heart rate, breaths, or other). Recordings go on the sheet as annotations and notes. (2026-11-24, Zihao)
 - Assignments are small studies of one to two weeks, so each week students make something new.
   A study is an inquiry rather than a task to finish. Each study has its own page, listed in the
   left nav under a P1 section and a P2 section; the site is the single source for the course.
