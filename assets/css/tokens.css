@@ -47,6 +47,9 @@
   --alert-bg:   #fcefe8;   /* 鱼肚白 */
   --alert-line: #f0c4be;
   --alert-soft: #b36d61;   /* 檀 — secondary reminder */
+  --done:       #1a6b3c;   /* green, 6.6:1 on its tint */
+  --done-bg:    #e9f5ee;
+  --done-line:  #b9dcc6;
 
   /* ── software colors for tool badges: each tool's hue, nearest traditional color ── */
   --tool-cad: #c32136;   /* 枣红 AutoCAD */
