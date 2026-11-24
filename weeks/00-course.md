@@ -17,8 +17,10 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
 
 ## Decided
+- 1.4 Scale builds and test-fits the insert; 1.5 Proposal draws it: contour plan and long section
+  at 1" = 20', and the perspective section collage. (2026-11-24, Zihao)
 - P1 midterm is a science fair with external guests at S14 (Mon 3/22); no separate S12 pin-up.
-  1.4 Scale runs two weeks (3/1 to 3/15) so contours get time; 1.5 Insert runs 3/15 to 3/22. (2026-11-24, Zihao)
+  1.4 Scale runs two weeks (3/1 to 3/15) so contours get time; 1.5 Proposal runs 3/15 to 3/22. (2026-11-24, Zihao)
 - Grading: ten graded studies at 9% each (90%), five per project, 1.0 an ungraded warm-up;
   midterm, the S14 science fair, 5%; final review 5%. The site model is a team build, ungraded.
   No participation grade. (2026-11-24, Zihao)
