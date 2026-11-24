@@ -8,16 +8,15 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, Zihao via Claude: every other slot is drafted in `index.html`, modeled on the Solarpunk
   (Fall 2025) and Technological Sublime (Fall 2024) syllabi (copies in `_prep/sample-syllabi/`).
   Both instructors to review: vocabulary, methodology, goals, objectives, deliverables, readings,
-  per-session lectures and workshops, and weights 40 / 40 / 20. Meeting time 2:00 to 5:20 PM is
+  per-session lectures and workshops, and weights. Meeting time 2:00 to 5:20 PM is
   inferred from past grad studios and the 7 contact hours; confirm it.
 - 2026-11-24, Claude draft for P2, pre-dating the P1 rework (assign Monday, check in Thursday, due
   next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
-- 2026-11-24, Claude: grade weights still read P1 40 / P2 40 / participation 20, while Weekly
-  Studies says grading follows the studies. Decide whether weights become per-study.
 
 ## Decided
+- Grading: weekly studies 80%, about 8% each; process and participation 20%. (2026-11-24, Zihao)
 - S03 workshop is Grasshopper (lofting key sections) for the catalog; the contour workshop is
   dropped, since students already read contours. (2026-11-24, Zihao)
 - P1 drawings are spread across the studies. 1.3 checks the chosen model at body scale, the space
