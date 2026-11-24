@@ -27,9 +27,11 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   checked at body scale with plan enlargements and sections at 1" = 8', then revised; 1.4 Scale (3/1-3/8): build the model bigger, as an insert
   fitted to the void at 1" = 20', drawn as a site contour plan and long section at the same scale;
   1.5 Insert (3/8-3/15 pin-up): final insert and perspective section
-  collage; revision to the 3/22 midterm. Needs a Grasshopper workshop by S03.
+  collage; revision to the 3/22 midterm.
 
 ## Decided
+- S03 workshop is Grasshopper (lofting key sections) for the catalog; the contour workshop is
+  dropped, since students already read contours. (2026-11-24, Zihao)
 - P1 drawings are spread across the studies. 1.3 checks the chosen model at body scale, the space
   a body would occupy, with plan enlargements and sections at 1" = 8'. (2026-11-24, Zihao)
 - P1 has a catalog study after the warm-up: a simple Grasshopper script lofts key sections of
@@ -60,4 +62,6 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   accessible, so P1 reads the site from its edges, the base data and the model. (2026-11-24, Zihao)
 
 ## To build
+- Schedule S03: "Workshop: reading contours and slope" becomes "Workshop: Grasshopper, lofting
+  key sections".
 - Fill each `[TODO]` in `index.html` as its answer is decided above, removing the marker.
