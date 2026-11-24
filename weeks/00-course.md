@@ -19,6 +19,9 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   insert to the midterm (S14). Model details: `tasks/p1-site-model.md`.
 - P2 Move Horizontally, S15 to S28, St. Nicholas Ave from 110th to 125th. Study models optional.
 - Sections swap at S15.
+- Movement scoring belongs to P2: a mapping exercise where each student invents a score to
+  document movement on St. Nicholas Ave, then writes the proposal in it. Amelia Gorman Park is not
+  accessible, so P1 reads the site from its edges, the base data and the model. (2026-11-24, Zihao)
 
 ## To build
 - Fill each `[TODO]` in `index.html` as its answer is decided above, removing the marker.
