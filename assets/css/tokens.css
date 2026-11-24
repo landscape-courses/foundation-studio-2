@@ -23,11 +23,11 @@
   --gray-900: #1a1a1a;   /* text */
   --gray-800: #333;
   --gray-750: #474747;
-  --gray-700: #555;      /* secondary text */
-  --gray-600: #6b6b6b;
-  --gray-500: #888;      /* notes, captions */
-  --gray-400: #aaa;
-  --gray-300: #bbb;
+  --gray-700: #444;      /* secondary text */
+  --gray-600: #555;
+  --gray-500: #666;      /* notes, captions */
+  --gray-400: #888;
+  --gray-300: #9a9a9a;
   --gray-250: #ccc;
   --gray-200: #e0e0e0;   /* rules, borders */
   --gray-150: #ebebeb;
