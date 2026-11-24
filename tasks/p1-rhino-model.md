@@ -15,7 +15,6 @@ It should give the laser-cut layers, the void and the insert template, all from 
 2. **Import.** Load the vector data from `p1-site-model/data/*_<size>in.geojson`:
    - contours: polylines, with each placed at `elev_ft`
    - buildings, streets, paths and park boundary
-   First regenerate the data at 1" = 20' and 30" (see the README); the current files are at 1" = 40'.
    Read the GeoJSON with a Python script through MCP. The SVG is for presentation; trace it only as a fallback,
    and if you do, scale it by its own ft-per-inch from its frame.
    Put each input in its own layer: `contours_1ft`, `contours_10ft`, `buildings`, `streets`, `paths`, `park`, `frame`.

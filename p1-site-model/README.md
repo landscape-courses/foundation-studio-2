@@ -33,9 +33,6 @@ This file is the source of truth for model specs; tasks and emails point here.
   Students fill the insert with scrap, foam or chipboard and sculpt only the top ½" in clay, about 2 lb each.
   The 27 lb order plus leftover clay covers the class. An 8" insert fits a 10" 3D-printer bed.
 
-The base maps and data in `base-map/` and `data/` are still at 1" = 40' (20" and 25"), and
-`scripts/base_map.py` has that scale built in. Regenerate them at 1" = 20' and 30" before the Rhino build.
-
 ## Sources
 - **Elevation:** USGS 3DEP 1 m DEM, from the `3DEPElevation` ImageServer `exportImage` endpoint, fetched 2026-11-04.
   Units are metres (NAVD88), resampled to 1 ft cells.
@@ -45,10 +42,11 @@ The base maps and data in `base-map/` and `data/` are still at 1" = 40' (20" and
 ## Files
 - `base-map/gorman_base_<size>in.svg`: base map at true model size. Each layer is its own group. There's a PNG preview next to it.
 - `data/dem_3dep_1010ft.npy`: DEM, 1010 × 1010 cells of 1 ft, values in metres, row 0 = north.
-- `data/contours_2ft_<size>in.geojson`: contour lines, with `elev_ft` and `index` (10 ft) attributes.
+- `data/contours_1ft_<size>in.geojson`: contour lines, with `elev_ft` and `index` (10 ft) attributes.
 - `data/{buildings,streets,paths,park}_<size>in.geojson`: OSM context, clipped to the frame.
-- `scripts/base_map.py <size>`: regenerates the maps, the data and the sheet estimate.
-  Run it with the `workflows/osm-map` venv.
+- `scripts/base_map.py <size> [ft_per_in] [interval_ft]`: regenerates the maps, the data and the sheet estimate.
+  Current set: `base_map.py 30 20 1`. Run it with the `workflows/osm-map` venv from `workflows/osm-map/`,
+  so osmnx reuses its OSM cache there.
 - `3d/`: Rhino model, cut sheets, insert template. See [tasks/p1-rhino-model.md](../tasks/p1-rhino-model.md).
 
 ## Scoping log (2026-11-04, Zihao + Claude)
