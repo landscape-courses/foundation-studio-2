@@ -8,28 +8,15 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, Zihao via Claude: every other slot is drafted in `index.html`, modeled on the Solarpunk
   (Fall 2025) and Technological Sublime (Fall 2024) syllabi (copies in `_prep/sample-syllabi/`).
   Both instructors to review: vocabulary, methodology, goals, objectives, deliverables, readings,
-  per-session lectures and workshops, and weights 40 / 40 / 20. Meeting time 2:00 to 5:20 PM is
+  per-session lectures and workshops, and weights. Meeting time 2:00 to 5:20 PM is
   inferred from past grad studios and the 7 contact hours; confirm it.
-- 2026-11-24, Claude draft for review, week-based (Zihao: assign Monday, check in Thursday, due
-  next Monday). Format: study, assigned, check-in, due.
-  P1: 1.0 A to B (Thu 1/28 in class, -, Mon 2/1); 1.1 Rise (2/1, 2/4, 2/8); 1.2 Steps (2/8, 2/11, Thu 2/18,
-  college closed 2/15); 1.3 Landform (2/22, 2/25, 3/1); 1.4 Ascent (3/1, 3/4, 3/8); 1.5 Insert
-  (3/8, -, 3/15 pin-up); revision to the 3/22 midterm. Site model built in class S04-S06 alongside.
-  P2: 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm (4/5, 4/8,
-  4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess); 2.5 Passage (5/3,
-  5/6, 5/10 pin-up); revision to the 5/20 final.
-
-
-- 2026-11-24, P1 draft in progress (Mon to Mon; one model carried from 1.2 to the midterm):
-  1.0 Terms (S01): scavenger hunt, three terms; 1.1 Catalog (2/1-2/8): Grasshopper loft of key
-  sections per term, 12 isometrics on 11x17, 4 per term, abstract, no site; 1.2 Clay (2/8-2/18):
-  one catalog item, three clay iterations; 1.3 Occupy (2/22-3/1): one iteration,
-  checked at body scale with plan enlargements and sections at 1" = 8', then revised; 1.4 Scale (3/1-3/8): build the model bigger, as an insert
-  fitted to the void at 1" = 20', drawn as a site contour plan and long section at the same scale;
-  1.5 Insert (3/8-3/15 pin-up): final insert and perspective section
-  collage; revision to the 3/22 midterm.
+- 2026-11-24, Claude draft for P2, pre-dating the P1 rework (assign Monday, check in Thursday, due
+  next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
+  (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
+  2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
 
 ## Decided
+- Grading: ten graded studies at 8% each (80%), five per project; 1.0 is an ungraded warm-up; process and participation 20%. (2026-11-24, Zihao)
 - S03 workshop is Grasshopper (lofting key sections) for the catalog; the contour workshop is
   dropped, since students already read contours. (2026-11-24, Zihao)
 - P1 drawings are spread across the studies. 1.3 checks the chosen model at body scale, the space
@@ -62,6 +49,5 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   accessible, so P1 reads the site from its edges, the base data and the model. (2026-11-24, Zihao)
 
 ## To build
-- Schedule S03: "Workshop: reading contours and slope" becomes "Workshop: Grasshopper, lofting
-  key sections".
+- P2 studies, once planned, as pages under the P2 nav section. P1 studies live in `studies/p1-*.html`.
 - Fill each `[TODO]` in `index.html` as its answer is decided above, removing the marker.

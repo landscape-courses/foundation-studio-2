@@ -860,3 +860,11 @@
   .wf-doc .wf-step.wf-done:not(.wf-open) .wf-step-head > .wf-step-num { position: static; }
   .wf-doc .wf-aside { margin-left: 0; }
 }
+
+/* Outcome chip in the spec strip */
+.wf-spec-outcome {
+  background: var(--done-bg);
+  box-shadow: inset 0 0 0 1px var(--done-line);
+}
+.wf-spec-outcome .wf-spec-label,
+.wf-spec-outcome .wf-spec-value { color: var(--done); }
