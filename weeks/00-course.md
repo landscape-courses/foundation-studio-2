@@ -14,13 +14,13 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
-- 2026-11-24, Zihao: the midterm becomes the S12 science fair (Mon 3/15) at 5%, the final review
-  5%, freeing 10% to redistribute; the site model needs a place in the grading. What S13 and S14
-  (Mon 3/22, now the midterm) become is open.
+- 2026-11-24, Zihao: the midterm is now the S12 science fair; what S13 and S14 (Mon 3/22) become is open.
 - 2026-11-24, Zihao: laser-cut training in week 1 or 2, run for each section during desk crits.
 
 ## Decided
-- Grading: ten graded studies at 8% each (80%), five per project; 1.0 is an ungraded warm-up; process and participation 20%. (2026-11-24, Zihao)
+- Grading: ten graded studies at 9% each (90%), five per project, 1.0 an ungraded warm-up;
+  midterm, the S12 science fair, 5%; final review 5%. The site model is a team build, ungraded.
+  No participation grade. (2026-11-24, Zihao)
 - S03 workshop is Grasshopper (lofting key sections) for the catalog; the contour workshop is
   dropped, since students already read contours. (2026-11-24, Zihao)
 - P1 drawings are spread across the studies. 1.3 checks the chosen model at body scale, the space
