@@ -20,9 +20,8 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   5/6, 5/10 pin-up); revision to the 5/20 final.
 
 
-- 2026-11-24, Zihao: the St. Nicholas Park stairs transect (hand-drawn on trace, 1" = 20', stops
-  and landings precise, steps as texture, a common record plus one bodily lens) is off 1.0; place
-  it elsewhere or drop it. The week-based draft above needs redoing around model-making.
+- 2026-11-24, Zihao: the week-based study draft above needs redoing around model-making.
+
 ## Decided
 - P1 studies are landform model-making; the site is a testing ground, not a problem to solve.
   (2026-11-24, Zihao)
