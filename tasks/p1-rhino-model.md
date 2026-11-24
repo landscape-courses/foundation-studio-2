@@ -25,7 +25,7 @@ It should give the laser-cut layers, the void and the insert template, all from 
    - Make the closed region above that level, clipped to the frame. Each layer is one 0.05" board.
    - Name each layer `L01…`.
    - Add the hollow option: a 2.5" band inside the contour for lower layers whose region is wider than about 8".
-5. **Void and insert template.** The spec is in the README: an 8" × 8" square (160 ft), rotated about 28° to the park.
+5. **Void and insert template.** The spec is in the README: an 8" × 8" square (160 ft), square to the model frame with no rotation.
    - Place it inside the park on the slope, using the park edges. Confirm the position with Zihao.
    - Cut the void through all layers above the base board. The void floor is the top of the base.
    - Export the boundary heights as an **edge template**, plus a `.stl` of the void volume for 3D printers.

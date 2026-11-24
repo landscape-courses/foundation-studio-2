@@ -3,7 +3,7 @@
 Base maps, source data and 3D models for the two P1 chipboard pancake models.
 This file is the source of truth for model specs; tasks and emails point here.
 
-## Specs (revised 2026-11-09, Zihao; void size pending Shahab)
+## Specs (revised 2026-11-09, Zihao)
 - **Scale:** 1" = 20' (1:240).
 - **Layers:** one 1 ft contour per board, 0.05" thick. The vertical scale is true.
 - **Size:** 30" × 30", covering 600 ft square, about 120 ft (half a block) of context around the park.
@@ -24,8 +24,8 @@ This file is the source of truth for model specs; tasks and emails point here.
 | **Total** before tax and shipping | | **$421.82** |
 
 **Void and inserts:**
-- **Void:** an 8" × 8" square (160 ft) inside the park, rotated to follow the park and Broadway (about 28° from the frame).
-  Proposed with the 1" = 20' scale; confirm with Shahab. It covers the middle of the slope, and its exact
+- **Void:** an 8" × 8" square (160 ft) inside the park, square to the model frame with no rotation.
+  Set 2026-11-24 (Zihao). It covers the middle of the slope, and its exact
   position is set in Rhino from the park edges. (At this scale a 6" void covers 120 ft, half the slope;
   a 12" void covers the whole slope but takes about 16 lb of clay and cannot be printed in one piece.)
 - **Datum:** the void floor is the top of the base board. Inserts sit flush.

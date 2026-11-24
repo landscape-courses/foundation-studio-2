@@ -36,7 +36,7 @@ Foundation Studio II, Spring 2027. Two projects of 14 sessions each, sharing a c
 
 ## Proposed specs
 Recorded in [p1-site-model/README.md](../p1-site-model/README.md): 1" = 20', 1 ft per 0.05" board, 30" × 30" model
-cut in two halves per layer, 8" rotated void, 120 Blick sheets for both (revised 2026-11-09). Rhino build: [p1-rhino-model.md](p1-rhino-model.md).
+cut in two halves per layer, 8" square void, 120 Blick sheets for both (revised 2026-11-09). Rhino build: [p1-rhino-model.md](p1-rhino-model.md).
 
 ## Steps
 1. Source data: NYC Open Data / NYC DoITT 1 ft contours or the topobathy DEM, plus building
