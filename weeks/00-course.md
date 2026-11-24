@@ -23,6 +23,9 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, Zihao: the week-based study draft above needs redoing around model-making.
 
 ## Decided
+- P1 students move between models and drawings. The P1 drawing set at the end: a contour plan,
+  plan enlargements, sections at several scales, and a perspective section collage.
+  (2026-11-24, Zihao)
 - P1 studies are landform model-making; the site is a testing ground, not a problem to solve.
   (2026-11-24, Zihao)
 - 1.0 warm-up, in S01 (Thu 1/28): a scavenger hunt. Students get a list of landform terms, search
