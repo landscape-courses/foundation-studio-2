@@ -20,15 +20,19 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   5/6, 5/10 pin-up); revision to the 5/20 final.
 
 
-- 2026-11-24, P1 draft in progress (model-drawing pairs, Mon to Mon): 1.0 Terms (S01, scavenger
-  hunt, three different terms); 1.1 Clay (2/1-2/8): pick one term, three clay iterations of it;
-  1.2 Section (2/8-2/18): pick one iteration, draw sections first to study its details, then
-  revise the model; 1.3 Scale (2/22-3/1): fit to the void,
-  site contour plan and long section at 1" = 20'; 1.4 Ground (3/1-3/8): plan enlargements and
-  sections at 1" = 8'; 1.5 Insert (3/8-3/15 pin-up): final insert and perspective section collage;
-  revision to the 3/22 midterm.
+- 2026-11-24, P1 draft in progress (Mon to Mon; one model carried from 1.2 to the midterm):
+  1.0 Terms (S01): scavenger hunt, three terms; 1.1 Catalog (2/1-2/8): Grasshopper loft of key
+  sections per term, 12 isometrics on 11x17, 4 per term, abstract, no site; 1.2 Clay (2/8-2/18):
+  one catalog item, three clay iterations; 1.3 Section (2/22-3/1): one iteration, sections first,
+  then revise; 1.4 Scale (3/1-3/8): fit to the void, site contour plan, long section at 1" = 20';
+  1.5 Insert (3/8-3/15 pin-up): plan enlargements, sections at 1" = 8', perspective section
+  collage; revision to the 3/22 midterm. Needs a Grasshopper workshop by S03.
 
 ## Decided
+- P1 has a catalog study after the warm-up: a simple Grasshopper script lofts key sections of
+  each of the three terms, developed into at least 12 isometrics on an 11x17 sheet, 4 per term,
+  abstract and without site, to explore the limits of each landform. The clay iterations start
+  from one catalog item. (2026-11-24, Zihao)
 - P1 students move between models and drawings. The P1 drawing set at the end: a contour plan,
   plan enlargements, sections at several scales, and a perspective section collage.
   (2026-11-24, Zihao)
