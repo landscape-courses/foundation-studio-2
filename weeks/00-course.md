@@ -15,15 +15,14 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
 - 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
-- 2026-11-25, Zihao: the site model gets one session (now S04 to S06) and becomes a collaboration
-  challenge for each section of 10, like a firm on a job. Draft: crews (cut, sort and check, glue,
-  void and template, one project manager), each student on two crews across shifts; a shared
-  timesheet in 15-minute entries by task code, as in practice, with budget against actual hours;
-  a transmittal at every handoff (labeled bag by layer, checklist, the receiver signs). Laser
-  cutting of ~60 sheets per section outruns one session, so cutting runs in logged shop shifts
-  the week before and the session is assembly. Awaiting a yes.
-
 ## Decided
+- The site model is a team collaboration exercise per section of 10, run like a firm on a job, in
+  parallel with the studies on the model shop's schedule, done before 1.4 Scale is assigned (S09,
+  Mon 3/1). Crews: layout (nests the laser templates onto sheets), cut, sort and check, glue,
+  void and insert template, and one project manager; each student serves on two crews. A shared
+  timesheet logs 15-minute entries by task code, budget against actual, and a plate on the base
+  credits each name with its hours. Every handoff carries a transmittal: a labeled bag by layer,
+  a checklist, the receiver's signature. Ungraded. (2026-11-25, Zihao)
 - 1.4 Scale builds and test-fits the insert; 1.5 Proposal draws it: contour plan and long section
   at 1" = 20', and the perspective section collage. (2026-11-24, Zihao)
 - P1 midterm is a science fair with external guests at S14 (Mon 3/22); no separate S12 pin-up.
@@ -66,3 +65,5 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 ## To build
 - P2 studies, once planned, as pages under the P2 nav section. P1 studies live in `studies/p1-*.html`.
 - Fill each `[TODO]` in `index.html` as its answer is decided above, removing the marker.
+- Site model exercise: schedule rows S04 to S06 drop "Site model build" for a running build due
+  S09; a site model page (crews, timesheet, transmittal) under P1.
