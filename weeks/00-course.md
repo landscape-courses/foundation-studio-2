@@ -15,6 +15,13 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
 - 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
+- 2026-11-25, Zihao: the site model gets one session (now S04 to S06) and becomes a collaboration
+  challenge for each section of 10, like a firm on a job. Draft: crews (cut, sort and check, glue,
+  void and template, one project manager), each student on two crews across shifts; a shared
+  timesheet in 15-minute entries by task code, as in practice, with budget against actual hours;
+  a transmittal at every handoff (labeled bag by layer, checklist, the receiver signs). Laser
+  cutting of ~60 sheets per section outruns one session, so cutting runs in logged shop shifts
+  the week before and the session is assembly. Awaiting a yes.
 
 ## Decided
 - 1.4 Scale builds and test-fits the insert; 1.5 Proposal draws it: contour plan and long section
