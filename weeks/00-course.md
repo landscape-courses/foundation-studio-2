@@ -14,14 +14,16 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
-- 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
+- 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.- 2026-11-25, Zihao: split each section into two teams, insert template and context? Claude: the
+  template is one 8" void, the context ~60 sheets, so two equal teams are unbalanced.
 ## Decided
 - The site model is a team collaboration exercise per section of 10, run like a firm on a job, in
   parallel with the studies on the model shop's schedule, done before 1.4 Scale is assigned (S09,
-  Mon 3/1). Crews: layout (nests the laser templates onto sheets), cut, sort and check, glue,
-  void and insert template, and one project manager; each student serves on two crews. A shared
+  Mon 3/1). Crews: layout (nests the laser templates onto sheets), cut (cuts, labels, checks and
+  bags pieces by layer), glue, void and insert template, and one project manager; each student
+  serves on two crews. A shared
   timesheet logs 15-minute entries by task code, budget against actual, and a plate on the base
-  credits each name with its hours. Every handoff carries a transmittal: a labeled bag by layer,
+  credits each name with its hours. Those with the fewest hours take the final assembly. Every handoff carries a transmittal: a labeled bag by layer,
   a checklist, the receiver's signature. Ungraded. (2026-11-25, Zihao)
 - 1.4 Scale builds and test-fits the insert; 1.5 Proposal draws it: contour plan and long section
   at 1" = 20', and the perspective section collage. (2026-11-24, Zihao)
