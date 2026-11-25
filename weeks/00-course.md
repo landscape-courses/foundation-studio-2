@@ -17,6 +17,8 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
 - 2026-11-25, Zihao: split each section into two teams, insert template and context? Claude: the
   template is one 8" void, the context ~60 sheets, so two equal teams are unbalanced.
+  Options: two even teams; north and south halves on the cut seam, 5 each; template 2, context 8.
+  Pending: Zihao to decide with Shahab (details in the "Course syllabus write-up" session).
 - 2026-11-25, Zihao: with inserts dropped, is the shared site model and its team build still
   needed? Also open: whether the strip's position is fixed or each student's own, and class size
   (sheets: about 6 to 8 per student against the 120 bought).
