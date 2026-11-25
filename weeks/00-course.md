@@ -14,8 +14,12 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   next Monday): 2.0 Notation (Thu 3/25, -, 3/29); 2.1 Score (3/29, 4/1, 4/5 pin-up); 2.2 Rhythm
   (4/5, 4/8, 4/12); 2.3 Ground (4/12, 4/15, 4/19); 2.4 Moments (4/19, -, 5/3 over recess);
   2.5 Passage (5/3, 5/6, 5/10 pin-up); revision to the 5/20 final.
-- 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.- 2026-11-25, Zihao: split each section into two teams, insert template and context? Claude: the
+- 2026-11-24, Zihao: laser-cut training, by section during desk crits, S02 or S03; schedule shows TBD.
+- 2026-11-25, Zihao: split each section into two teams, insert template and context? Claude: the
   template is one 8" void, the context ~60 sheets, so two equal teams are unbalanced.
+- 2026-11-25, Zihao: with inserts dropped, is the shared site model and its team build still
+  needed? Also open: whether the strip's position is fixed or each student's own, and class size
+  (sheets: about 6 to 8 per student against the 120 bought).
 ## Decided
 - The site model is a team collaboration exercise per section of 10, run like a firm on a job, in
   parallel with the studies on the model shop's schedule, done before 1.4 Scale is assigned (S09,
@@ -25,10 +29,15 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   timesheet logs 15-minute entries by task code, budget against actual, and a plate on the base
   credits each name with its hours. Those with the fewest hours take the final assembly. Every handoff carries a transmittal: a labeled bag by layer,
   a checklist, the receiver's signature. Ungraded. (2026-11-25, Zihao)
-- 1.4 Scale builds and test-fits the insert; 1.5 Proposal draws it: contour plan and long section
-  at 1" = 20', and the perspective section collage. (2026-11-24, Zihao)
+- 1.4 Scale is a section model: each student laser-cuts one strip of the park at 1" = 20', 1 ft
+  contours, one board per layer. The strip runs from Broadway to the street on the east, about
+  410 x 117 ft (20.5" x 6", one piece on the laser bed). Its south face is the student's design
+  section and matches their section drawing; the north side meets the existing park and the short
+  ends meet the street elevations. About 80 layers. This replaces the void and the clay insert.
+  1.5 Proposal draws it: contour plan and long section at 1" = 20', and the perspective section
+  collage. (2026-11-25, Zihao)
 - P1 midterm is a science fair with external guests at S14 (Mon 3/22); no separate S12 pin-up.
-  1.4 Scale, one 8" x 8" clay insert, runs one week (3/1 to 3/8); 1.5 Proposal, the drawings,
+  1.4 Scale, the section model, runs one week (3/1 to 3/8); 1.5 Proposal, the drawings,
   runs two weeks (3/8 to 3/22). (2026-11-24, Zihao)
 - Grading: ten graded studies at 9% each (90%), five per project, 1.0 an ungraded warm-up;
   midterm, the S14 science fair, 5%; final review 5%. The site model is a team build, ungraded.
@@ -56,8 +65,8 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
 - Two projects of 14 sessions each, sharing one spine: movement and choreography, A to B. Each
   project has a dominant axis.
 - P1 Move Vertically, S01 to S14 (Thu 1/28 to Mon 3/22), Amelia Gorman Park. Each section builds
-  one of two identical chipboard pancake site models; each student brings at least one landform
-  insert to the midterm (S14). Model details: `tasks/p1-site-model.md`.
+  one of two identical chipboard pancake site models; each student brings their section model to the
+  midterm (S14). Model details: `tasks/p1-site-model.md`.
 - P2 Move Horizontally, S15 to S28, St. Nicholas Ave from 110th to 125th. Study models optional.
 - Sections swap at S15.
 - Movement scoring belongs to P2: a mapping exercise where each student invents a score to
