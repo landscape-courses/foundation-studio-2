@@ -24,7 +24,7 @@ This file is the source of truth for model specs; tasks and emails point here.
 | **Total** before tax and shipping | | **$421.82** |
 
 **Void and inserts:**
-- **Void:** an 8" × 8" square (160 ft) inside the park, square to the model frame with no rotation.
+- **Void:** an 8" × 8" square (160 ft) inside the park, centered on it and rotated to its long edge (151°, i.e. 29° off the frame). Drawn by `scripts/draw_void.py` on `base-map/gorman_void_30in.svg`, which prints its corners for Rhino.
   Set 2026-11-24 (Zihao). It covers the middle of the slope, and its exact
   position is set in Rhino from the park edges. (At this scale a 6" void covers 120 ft, half the slope;
   a 12" void covers the whole slope but takes about 16 lb of clay and cannot be printed in one piece.)
