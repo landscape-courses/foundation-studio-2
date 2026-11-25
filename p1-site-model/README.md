@@ -44,8 +44,10 @@ This file is the source of truth for model specs; tasks and emails point here.
 - `data/dem_3dep_1010ft.npy`: DEM, 1010 × 1010 cells of 1 ft, values in metres, row 0 = north.
 - `data/contours_1ft_<size>in.geojson`: contour lines, with `elev_ft` and `index` (10 ft) attributes.
 - `data/{buildings,streets,paths,park}_<size>in.geojson`: OSM context, clipped to the frame.
-- `scripts/base_map.py <size> [ft_per_in] [interval_ft]`: regenerates the maps, the data and the sheet estimate.
-  Current set: `base_map.py 30 20 1`. Run it with the `workflows/osm-map` venv from `workflows/osm-map/`,
+- `scripts/base_map.py <size> [ft_per_in] [interval_ft] [rot_deg]`: regenerates the maps, the data and the sheet estimate.
+  Current set: `base_map.py 22 20 1 29`, a 22" (440 ft) frame turned 29° so its edges follow the park. Rotated outputs
+  carry `_rot29` and use local feet with the origin at the frame center; `data/dem_local_22in_rot29.npy` is the frame's
+  1 ft elevation grid (row 0 = bottom). The 30" north-up set and the void map stay until the model option is chosen. Run it with the `workflows/osm-map` venv from `workflows/osm-map/`,
   so osmnx reuses its OSM cache there.
 - `3d/`: Rhino model, cut sheets, insert template. See [tasks/p1-rhino-model.md](../tasks/p1-rhino-model.md).
 
