@@ -30,6 +30,8 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   · 2.2 Lexicon (planted forms) · 2.3 Trees (L-system) · 2.4 Sequence (movement through the
   trees at 1" = 8') · 2.5 Proposal. Awaiting Zihao.
 ## Decided
+- 2.1 Forest: where the sections differ in size, the leftover student makes a team of three, which
+  takes the topic with the most work. Graded as a team, each member the same grade. (2026-11-27, Zihao)
 - 2.1 Forest is a team study: ten ecology topics, and the two students on the same topic in the two
   sections form a team that coordinates across sections. One week of research, then the next week
   ten team presentations, pecha kucha style: 10 to 15 slides at 30 seconds each, 5 to 7 minutes
