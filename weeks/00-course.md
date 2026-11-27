@@ -23,6 +23,11 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   needed? Also open: whether the strip's position is fixed or each student's own, and class size
   (sheets: about 6 to 8 per student against the 120 bought).
 ## Decided
+- S15 (Thu 3/25) is the P2 site intro: a lecture by Lizzie MacWillie, Assistant Director of the
+  J. Max Bond Center for Urban Futures, on her work with community partners on St. Nicholas Ave.
+  P2 is a real, partner-funded project and the partner wants to see ideas from the studio; Lizzie
+  joins some reviews later. P2 follows P1's logic: small studies lead to the final, named and
+  structured like P1 (2.0 ungraded warm-up, 2.1 to 2.5 graded). (2026-11-27, Zihao)
 - The site model is a team collaboration exercise per section of 10, run like a firm on a job, in
   parallel with the studies on the model shop's schedule, done before 1.4 Scale is assigned (S09,
   Mon 3/1). Crews: layout (nests the laser templates onto sheets), cut (cuts, labels, checks and
