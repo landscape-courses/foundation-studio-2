@@ -30,6 +30,10 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   · 2.2 Lexicon (planted forms) · 2.3 Trees (L-system) · 2.4 Sequence (movement through the
   trees at 1" = 8') · 2.5 Proposal. Awaiting Zihao.
 ## Decided
+- The site walk follows Lizzie's lecture on W9 Thu 3/25: 2.0 Score is assigned there and students
+  walk the avenue that afternoon; 2.0 is due W10 Mon 3/29, when 2.1 Forest is assigned. Studies are
+  assigned and due on Mondays, checked in on Thursdays. Weeks count from W1 (Thu 1/28), recess
+  included. (2026-11-27, Zihao)
 - 2.1 Forest: where the sections differ in size, the leftover student makes a team of three, which
   takes the topic with the most work. Graded as a team, each member the same grade. (2026-11-27, Zihao)
 - 2.1 Forest is a team study: ten ecology topics, and the two students on the same topic in the two
