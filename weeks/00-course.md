@@ -26,10 +26,13 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   drawing system for them, helped by a Grasshopper L-system script that grows 3D trees of varied
   shape and branching in Rhino (Claude to write it, ported from yt-ambient's 2D `lsystem.py`).
   Pending: where it sits among 2.0 to 2.5, and the order of score and tree studies.
-- 2026-11-27, Claude draft P2 sequence: 2.0 Score (Halprin walk, ungraded) · 2.1 Forest (research)
-  · 2.2 Lexicon (planted forms) · 2.3 Trees (L-system) · 2.4 Sequence (movement through the
-  trees at 1" = 8') · 2.5 Proposal. Awaiting Zihao.
 ## Decided
+- P2 sequence, recorded for now: 2.0 Score (W9 Thu to W10 Mon, ungraded) · 2.1 Forest (W10 Mon to
+  W11 Mon, pecha kucha) · 2.2 Lexicon (to W12 Mon) · 2.3 Trees (to W13 Mon; L-system workshop W11
+  Thu) · 2.4 Sequence (over recess, to W15 Mon) · 2.5 Proposal (W16 Mon pin-up, W17 Thu final).
+  A due day is a desk review or a pin-up; desk crits are for work in progress. Pin-ups: 1.0, 1.1,
+  2.0, 2.2. Desk reviews: 1.2, 1.3, 1.4, 2.3, 2.4. The syllabus schedule runs by week (W1 to W17),
+  one row per class day, labeled draft. (2026-11-27, Zihao)
 - The site walk follows Lizzie's lecture on W9 Thu 3/25: 2.0 Score is assigned there and students
   walk the avenue that afternoon; 2.0 is due W10 Mon 3/29, when 2.1 Forest is assigned. Studies are
   assigned and due on Mondays, checked in on Thursdays. Weeks count from W1 (Thu 1/28), recess
