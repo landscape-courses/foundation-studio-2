@@ -26,7 +26,13 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   drawing system for them, helped by a Grasshopper L-system script that grows 3D trees of varied
   shape and branching in Rhino (Claude to write it, ported from yt-ambient's 2D `lsystem.py`).
   Pending: where it sits among 2.0 to 2.5, and the order of score and tree studies.
+- 2026-11-27, Claude draft P2 sequence: 2.0 Score (Halprin walk, ungraded) · 2.1 Forest (research)
+  · 2.2 Lexicon (planted forms) · 2.3 Trees (L-system) · 2.4 Sequence (movement through the
+  trees at 1" = 8') · 2.5 Proposal. Awaiting Zihao.
 ## Decided
+- P2 is specific to movement and trees. Students study planted form as a lexicon, like P1's
+  landform terms: each takes one or two forms and draws the space they make. One week of forest
+  ecology research by topic, asking what forest ecology means for an urban forest. (2026-11-27, Zihao)
 - P2 carries two agendas: movement on the avenue and the urban forest. The score is one
   Halprin-style mapping study, not the spine of P2. (2026-11-27, Zihao)
 - S15 (Thu 3/25) is the P2 site intro: a lecture by Lizzie MacWillie, Assistant Director of the
