@@ -30,6 +30,10 @@ Syllabus slots still waiting on the instructors (`grep -n TODO index.html` is th
   · 2.2 Lexicon (planted forms) · 2.3 Trees (L-system) · 2.4 Sequence (movement through the
   trees at 1" = 8') · 2.5 Proposal. Awaiting Zihao.
 ## Decided
+- 2.1 Forest is a team study: ten ecology topics, and the two students on the same topic in the two
+  sections form a team that coordinates across sections. One week of research, then the next week
+  ten team presentations, pecha kucha style: 10 to 15 slides at 30 seconds each, 5 to 7 minutes
+  per team, both sections together. (2026-11-27, Zihao)
 - P2 is specific to movement and trees. Students study planted form as a lexicon, like P1's
   landform terms: each takes one or two forms and draws the space they make. One week of forest
   ecology research by topic, asking what forest ecology means for an urban forest. (2026-11-27, Zihao)
